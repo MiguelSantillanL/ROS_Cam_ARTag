@@ -1,0 +1,6 @@
+devel_space: /home/miguel/laviria/catkin_ws/devel
+install: false
+install_space: /home/miguel/laviria/catkin_ws/install
+profile: default
+source_space: /home/miguel/laviria/catkin_ws/src
+workspace: /home/miguel/laviria/catkin_ws

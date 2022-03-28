@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/miguel/laviria/catkin_ws/devel/.private/test_libucv_cam/setup.sh

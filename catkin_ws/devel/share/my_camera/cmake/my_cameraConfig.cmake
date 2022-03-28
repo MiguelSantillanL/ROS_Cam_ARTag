@@ -1,0 +1,1 @@
+/home/miguel/laviria/catkin_ws/devel/.private/my_camera/share/my_camera/cmake/my_cameraConfig.cmake

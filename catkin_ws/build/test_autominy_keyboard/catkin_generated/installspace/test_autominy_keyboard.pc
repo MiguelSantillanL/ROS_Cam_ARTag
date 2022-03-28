@@ -1,0 +1,8 @@
+prefix=/home/miguel/laviria/catkin_ws/install
+
+Name: test_autominy_keyboard
+Description: Description of test_autominy_keyboard
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

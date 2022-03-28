@@ -1,0 +1,9 @@
+[35m[1mScanning dependencies of target test_libuv_cam_node[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/test_libuv_cam_node.dir/src/test_libuv_cam.cpp.o[0m
+[01m[K/home/miguel/laviria/catkin_ws/src/test_libucv_cam/src/test_libuv_cam.cpp:3:10:[m[K [01;31m[Kfatal error: [m[Kopencv2/highgui/highgui.hpp: No existe el archivo o el directorio
+    3 | #include [01;31m[K<opencv2/highgui/highgui.hpp>[m[K
+      |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+compilation terminated.
+make[2]: *** [CMakeFiles/test_libuv_cam_node.dir/build.make:63: CMakeFiles/test_libuv_cam_node.dir/src/test_libuv_cam.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:192: CMakeFiles/test_libuv_cam_node.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2

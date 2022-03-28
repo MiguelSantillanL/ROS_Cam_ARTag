@@ -1,0 +1,5 @@
+test_libucv_cam
+/home/miguel/laviria/catkin_ws/devel/.private/test_libucv_cam/cmake.lock /home/miguel/laviria/catkin_ws/devel/./cmake.lock
+/home/miguel/laviria/catkin_ws/devel/.private/test_libucv_cam/share/test_libucv_cam/cmake/test_libucv_camConfig.cmake /home/miguel/laviria/catkin_ws/devel/share/test_libucv_cam/cmake/test_libucv_camConfig.cmake
+/home/miguel/laviria/catkin_ws/devel/.private/test_libucv_cam/share/test_libucv_cam/cmake/test_libucv_camConfig-version.cmake /home/miguel/laviria/catkin_ws/devel/share/test_libucv_cam/cmake/test_libucv_camConfig-version.cmake
+/home/miguel/laviria/catkin_ws/devel/.private/test_libucv_cam/lib/pkgconfig/test_libucv_cam.pc /home/miguel/laviria/catkin_ws/devel/lib/pkgconfig/test_libucv_cam.pc

@@ -1,0 +1,5 @@
+my_camera
+/home/miguel/laviria/catkin_ws/devel/.private/my_camera/cmake.lock /home/miguel/laviria/catkin_ws/devel/./cmake.lock
+/home/miguel/laviria/catkin_ws/devel/.private/my_camera/share/my_camera/cmake/my_cameraConfig.cmake /home/miguel/laviria/catkin_ws/devel/share/my_camera/cmake/my_cameraConfig.cmake
+/home/miguel/laviria/catkin_ws/devel/.private/my_camera/share/my_camera/cmake/my_cameraConfig-version.cmake /home/miguel/laviria/catkin_ws/devel/share/my_camera/cmake/my_cameraConfig-version.cmake
+/home/miguel/laviria/catkin_ws/devel/.private/my_camera/lib/pkgconfig/my_camera.pc /home/miguel/laviria/catkin_ws/devel/lib/pkgconfig/my_camera.pc

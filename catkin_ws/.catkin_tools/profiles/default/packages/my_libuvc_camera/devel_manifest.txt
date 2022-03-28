@@ -1,0 +1,5 @@
+my_libuvc_camera
+/home/miguel/laviria/catkin_ws/devel/.private/my_libuvc_camera/cmake.lock /home/miguel/laviria/catkin_ws/devel/./cmake.lock
+/home/miguel/laviria/catkin_ws/devel/.private/my_libuvc_camera/share/my_libuvc_camera/cmake/my_libuvc_cameraConfig.cmake /home/miguel/laviria/catkin_ws/devel/share/my_libuvc_camera/cmake/my_libuvc_cameraConfig.cmake
+/home/miguel/laviria/catkin_ws/devel/.private/my_libuvc_camera/share/my_libuvc_camera/cmake/my_libuvc_cameraConfig-version.cmake /home/miguel/laviria/catkin_ws/devel/share/my_libuvc_camera/cmake/my_libuvc_cameraConfig-version.cmake
+/home/miguel/laviria/catkin_ws/devel/.private/my_libuvc_camera/lib/pkgconfig/my_libuvc_camera.pc /home/miguel/laviria/catkin_ws/devel/lib/pkgconfig/my_libuvc_camera.pc
